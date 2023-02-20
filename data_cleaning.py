@@ -1,4 +1,4 @@
 import pandas as pd
 
-def clean(df):
+def cleaning(df):
     return none
